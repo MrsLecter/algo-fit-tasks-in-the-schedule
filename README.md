@@ -1,4 +1,4 @@
-\*\*\* How to use
+### How to use
 
 1. Install all modules: <code> npm i </code>
 2. Check function with brute approach:
